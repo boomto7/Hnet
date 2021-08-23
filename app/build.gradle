@@ -2,6 +2,8 @@ plugins {
     id 'com.android.library'
 }
 
+group = 'com.github.boomto7'
+
 android {
     compileSdk 31
 
